@@ -1,0 +1,15 @@
+C:\Users\ricky\source\repos\GAMETICTACTOE\bin\Debug\GAMETICTACTOE.exe.config
+C:\Users\ricky\source\repos\GAMETICTACTOE\bin\Debug\GAMETICTACTOE.exe
+C:\Users\ricky\source\repos\GAMETICTACTOE\bin\Debug\GAMETICTACTOE.pdb
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.csproj.AssemblyReference.cache
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.Form1.resources
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.Properties.Resources.resources
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.csproj.GenerateResource.cache
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.exe
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.pdb
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.Login.resources
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.administrator.resources
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.Create.resources
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.Uppdate.resources
+C:\Users\ricky\source\repos\GAMETICTACTOE\obj\Debug\GAMETICTACTOE.Welcome.resources
